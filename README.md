@@ -4,7 +4,7 @@
 
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
 ![Free skills](https://img.shields.io/badge/Free%20skills-4-brightgreen)
-![Full library](https://img.shields.io/badge/Full%20library-77%20skills-blue)
+![Full library](https://img.shields.io/badge/Full%20library-79%20skills-blue)
 ![PRs welcome](https://img.shields.io/badge/PRs-welcome-orange)
 
 🇯🇵 日本語版: [README.ja.md](./README.ja.md)
@@ -18,7 +18,7 @@ The difference isn't the model. It's the **workflow**: how you plan, how you str
 
 This repo gives you **4 free, ready-to-use skills** that form one complete loop of professional Claude Code development. Copy them into your project, follow the steps, and feel the difference today.
 
-> These 4 are a curated starter slice of a larger **77-skill library**. Everything here is genuinely useful on its own — no crippled demos.
+> These 4 are a curated starter slice of a larger **79-skill library**. Everything here is genuinely useful on its own — no crippled demos.
 
 ---
 
@@ -55,12 +55,26 @@ No setup, no config hunting. Each skill is a self-contained markdown playbook.
 
 ---
 
-## The full library (77 skills)
+## Also included
+
+Beyond the 4 skills, this repo ships a few ready-to-use starters:
+
+| File | What it is |
+|---|---|
+| [`templates/CLAUDE.md`](./templates/CLAUDE.md) | A fill-in-the-blanks `CLAUDE.md` for a web app — role, coding standards, workflow rules, and a "what NOT to do" section. |
+| [`hooks/pre-commit.md`](./hooks/pre-commit.md) | Sample Claude Code Hooks (lint-on-commit, `.env` write-block) you can paste into `.claude/settings.json`. |
+| [`docs/quickstart.md`](./docs/quickstart.md) | A 30-minute setup guide that ties the template and skills together. |
+
+All free, CC BY 4.0 — copy and adapt freely.
+
+---
+
+## The full library (79 skills)
 
 These 4 are the entrance. The full library covers the parts that are hard to get right — parallelism, autonomy, MCP, and team scale.
 
 <details>
-<summary><b>Click to see all 77 skills (titles only)</b></summary>
+<summary><b>Click to see all 79 skills (titles only)</b></summary>
 
 **Workflow & context**
 - Agentic Workflow Pattern Selection · PIV Development Loop ✅free · Workspace Initialization · Context Management Strategy · Complexity-Based Routing · Session Scope Discipline
@@ -86,7 +100,7 @@ These 4 are the entrance. The full library covers the parts that are hard to get
 **Commit, spec & DevOps**
 - AI Commit Strategy ✅free · Agile Prompt Template ✅free · Spec-Driven Development · Human-in-the-Loop Approval Gates · Terraform Safe 4-Phase · DB Migration Safe Deploy · Project Wiki Auto-Maintenance · Code Archaeology Workflow
 
-*(…and more — 77 skills + 3 workflows + 10 reusable prompts in total.)*
+*(…and more — 79 skills + 3 workflows + 10 reusable prompts in total.)*
 
 </details>
 
@@ -99,7 +113,7 @@ If the 4 free skills helped, the full library removes the guesswork from the har
 | Product | What's inside | Price | Link |
 |---|---|---|---|
 | **Starter Pack** | 7 CLAUDE.md templates · Hooks · MCP config — the fastest first setup | **$14** | [Gumroad (EN)](https://streamsolty.gumroad.com/l/wrtgun) |
-| **Workflow OS** | The full **77-skill** library + 3 workflows + 10 prompts | **$65** | [Gumroad (EN)](https://streamsolty.gumroad.com/l/guuhox) |
+| **Workflow OS** | The full **79-skill** library + 3 workflows + 10 prompts | **$65** | [Gumroad (EN)](https://streamsolty.gumroad.com/l/guuhox) |
 
 🇯🇵 日本語の方は [BOOTH](https://streamsolty.booth.pm/) または Gumroad（[Starter ¥1,980](https://streamsolty.gumroad.com/l/gliwz) / [Workflow OS ¥9,800](https://streamsolty.gumroad.com/l/vhcysn)）からどうぞ。
 

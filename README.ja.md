@@ -14,7 +14,7 @@
 このリポジトリは、プロのClaude Code開発「1周分」を構成する **無料スキル4本** を提供します。
 あなたのプロジェクトにコピーして、手順通りに使うだけ。今日から違いを実感できます。
 
-> この4本は **全77スキル** の入口（厳選スライス）です。機能制限デモではなく、単体で実用できます。
+> この4本は **全79スキル** の入口（厳選スライス）です。機能制限デモではなく、単体で実用できます。
 
 ---
 
@@ -43,9 +43,23 @@ claude
 
 ---
 
-## 全77スキル
+## その他の同梱物
 
-4本は入口です。並列化・自律化・MCP・チーム展開といった「難所」は全77スキルの完全版でカバーしています。
+4本のスキルに加えて、すぐ使えるスターターも同梱しています。
+
+| ファイル | 中身 |
+|---|---|
+| [`templates/CLAUDE.md`](./templates/CLAUDE.md) | Webアプリ用の穴埋め式 `CLAUDE.md` — 役割・コーディング規約・ワークフロー・「やってはいけないこと」入り。 |
+| [`hooks/pre-commit.md`](./hooks/pre-commit.md) | コミット前lint・`.env`書き込みブロック等のHooksサンプル（`.claude/settings.json` に貼るだけ）。 |
+| [`docs/quickstart.md`](./docs/quickstart.md) | テンプレートとスキルをつなぐ30分セットアップガイド。 |
+
+すべて無料・CC BY 4.0。コピー・改変自由です。
+
+---
+
+## 全79スキル
+
+4本は入口です。並列化・自律化・MCP・チーム展開といった「難所」は全79スキルの完全版でカバーしています。
 （全スキルの一覧は英語版READMEの折りたたみ一覧、または完全版「ワークフローOS」に同梱）
 
 ## 完全版を入手
@@ -53,7 +67,7 @@ claude
 | 商品 | 内容 | 価格 | リンク |
 |---|---|---|---|
 | スターターパック | CLAUDE.mdテンプレ7種・Hooks・MCP設定 | ¥1,980 | [Gumroad](https://streamsolty.gumroad.com/l/gliwz) / [BOOTH](https://streamsolty.booth.pm/) |
-| ワークフローOS | 全77スキル + ワークフロー3本 + プロンプト10種 | ¥9,800 | [Gumroad](https://streamsolty.gumroad.com/l/vhcysn) / [BOOTH](https://streamsolty.booth.pm/) |
+| ワークフローOS | 全79スキル + ワークフロー3本 + プロンプト10種 | ¥9,800 | [Gumroad](https://streamsolty.gumroad.com/l/vhcysn) / [BOOTH](https://streamsolty.booth.pm/) |
 
 7日間返金保証。まず試してから判断してください。
 
