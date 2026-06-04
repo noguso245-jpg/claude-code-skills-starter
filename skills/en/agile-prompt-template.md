@@ -9,6 +9,8 @@ sources:
   - https://dev.to/raghavyuva/the-art-of-vibe-coding-with-actual-discipline-lo
 ---
 
+> **In one line:** Give Claude a ticket, not a wish — Context / To-dos / Not-to-dos / Acceptance Criteria — so vague prompts stop producing vague code. Use it when asking for any feature, fix, or refactor.
+
 # Purpose
 
 Based on the principle "prompt quality = the ceiling on implementation quality," convert vague prompts into a structured format. Once you write a good prompt, turn it into a template and reuse it across the team.

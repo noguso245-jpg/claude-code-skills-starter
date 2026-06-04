@@ -8,6 +8,8 @@ sources:
   - https://www.generative.inc/the-complete-claude-code-guide-2026-planning-context-engineering-and-high-leverage-development
 ---
 
+> **一言でいうと:** `CLAUDE.md` を「AI同僚へのオンボーディング文書」として WHAT/WHY/HOW とスコープ設計で書くと、設定だけで回答品質が上がる。新規プロジェクト開始時や、Claudeが同じミスを繰り返す時に使う。
+
 # 目的
 
 CLAUDE.md は人間向けの README ではなく、AI チームメンバーへのオンボーディング文書。PR のたびに訂正した内容を CLAUDE.md に追記することで「永遠に繰り返さないバグリスト」が自動構築される（Compound Engineering）。

@@ -8,6 +8,8 @@ sources:
   - https://www.generative.inc/the-complete-claude-code-guide-2026-planning-context-engineering-and-high-leverage-development
 ---
 
+> **In one line:** Treat `CLAUDE.md` as onboarding docs for your AI teammate — structure it with WHAT/WHY/HOW and a scope cascade so answer quality jumps from config alone. Use it at project start or when Claude keeps repeating mistakes.
+
 # Purpose
 
 CLAUDE.md is not a README for humans — it is an onboarding document for an AI teammate. Every time you correct Claude in a PR, you add that correction to CLAUDE.md, which automatically builds a "never-repeat-this-bug list" (Compound Engineering).

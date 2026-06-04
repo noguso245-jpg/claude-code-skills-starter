@@ -9,6 +9,8 @@ sources:
   - https://addyosmani.com/blog/self-improving-agents/
 ---
 
+> **In one line:** Commit 1 task = 1 commit so every AI session has frequent save points you can roll back to instantly. Use it in any AI coding session, especially refactors and large tasks.
+
 # Purpose
 
 In AI coding sessions, changes are fast and far-reaching, so commit granularity matters more than in human-only development. "I'll clean it up later in one big commit" is fatal in an AI session. Fine-grained save points let you recover from failure instantly.

@@ -8,6 +8,8 @@ source_videos:
   - https://www.youtube.com/watch?v=9YpHBUmwY5M
 ---
 
+> **In one line:** Make Claude plan first and wait for your approval before writing code — so a confidently wrong implementation never ships. Use it for any multi-file or high-risk task.
+
 # Purpose
 
 Split every implementation task into three clear, non-overlapping phases. Separating planning from execution is the single highest-leverage pattern in Claude Code: "if the plan is good, the code is good."

@@ -9,6 +9,8 @@ sources:
   - https://dev.to/raghavyuva/the-art-of-vibe-coding-with-actual-discipline-lo
 ---
 
+> **一言でいうと:** 願い事ではなく「チケット」をClaudeに渡す（Context / To-dos / Not-to-dos / Acceptance）。曖昧なプロンプトが曖昧なコードを生むのを止める。機能追加・バグ修正・リファクタの依頼時に使う。
+
 # 目的
 
 「プロンプトの品質 = 実装の品質の上限」という原則に基づき、曖昧なプロンプトを構造化された形式に変換する。一度書いた良いプロンプトをテンプレート化してチームで再利用する。
